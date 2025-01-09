@@ -2,8 +2,8 @@
 
 🎯 **Programming for fun and growth**  
 🔍 Exploring **Web Development**, **Game Development**, and **Open Source**  
-📚 Currently learning: [Insert your learning goals, e.g., AI/ML, advanced JS]  
-🌟 Fun fact: [Something unique about you, e.g., "I enjoy solving puzzles and building games!"]
+📚 Currently learning: PostgreSQL, Algorithmic approaches of problem solving. 
+
 
 ---
 
