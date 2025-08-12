@@ -11,9 +11,6 @@
   <a href="https://github.com/abhishekprasad22">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekprasad22&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
   </a>
-  <a href="https://github.com/abhishekprasad22">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=abhishekprasad22&theme=dracula&hide_border=true" alt="GitHub Streak" />
-  </a>
 </div>
 
 <br>
@@ -62,6 +59,7 @@
 ### [Data Visualizer](http://github.com/chinmoy33/techenhance-dashboard)
 
 Data Visualizer Pro is a full-stack web application for interactive data visualization, dataset management, and AI-powered recommendations.
+
 **Key Features:**
 
 - Upload, analyze, and visualize datasets with a modern, responsive UI.
@@ -72,6 +70,7 @@ Data Visualizer Pro is a full-stack web application for interactive data visuali
 ### [JEC Space](https://github.com/rkbyoo/JEC-space)
 
 Platform for students to connect, share, and access resources, making campus life more collaborative.
+
 **Key Features:**
 
 - Developed and maintained core features including user authentication, profile management, and community feed.
@@ -81,6 +80,7 @@ Platform for students to connect, share, and access resources, making campus lif
 ### [Legal House](https://github.com/abhishekprasad22/Legal-House)
 
 Developed a web-based application streamlining case management for legal professionals using .
+
 **Key Features:**
 
 - Implemented features for creating, viewing, and resolving legal cases with PDF file uploads and AI-powered summaries using LLM Ollama.
@@ -95,6 +95,7 @@ Developed a web-based application streamlining case management for legal profess
   <a href="https://www.linkedin.com/in/abhishek-prasad-5b11b81a0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:abhishekprasadofficial1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
+
 ---
 
 <div align="center">
